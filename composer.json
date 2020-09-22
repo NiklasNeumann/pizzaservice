@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/PropelPizzaservice",
+  "description": "description",
+  "minimum-stability": "dev",
+  "license": "proprietary",  "authors": [
+    {
+      "name": "nneumann",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "propel/propel1": "~1.6"
+  }
+}
